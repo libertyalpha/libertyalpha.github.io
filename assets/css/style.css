@@ -1,0 +1,130 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	
+	font-family: 'Roboto Slab', serif;
+	
+}
+.navbar-nav a{
+	
+	text-align:center;
+	border-radius:40px;
+	padding:2px;
+	font-size:15px;
+	background-image: linear-gradient(to right, #4078c2, #009ee7, #00c0d9, #00da95, #4beb12);
+}
+.nav-item{
+	width:80px;
+}
+.header_img_text{
+	background:url(../images/full_img.jpg) no-repeat;
+	background-position:center center;
+	overflow:hidden;
+	background-attachment:fixed;
+	
+}
+.gradient_bg{
+	background-image: linear-gradient(to left top, #c87ca9, #bc7ab3, #ac7abe, #967cc7, #7b7ece, #6084d1, #3f89d1, #008dce, #0094c4, #0099b7, #0c9da8, #3e9f99);
+}
+.headline-text{
+	padding:200px;
+	color:#FFF;
+	font-weight:bold;
+	
+}
+.logo{
+	width:450px;
+	height:450px;
+	
+}
+.Technology_and_Security{
+	text-align:center;
+}
+h4.py-2 {
+    color: #4cab2d;
+}
+.icon i{
+	font-size:100px;
+	
+}
+.icon{
+	text-align:center;
+}
+.lineheight{
+	width:250px;
+}
+.media i{
+	font-size:100px;
+}
+.text-center {
+    text-align: center!important;
+    font-size: 42px;
+    color: white;
+}
+
+.solutions{
+	background-image: linear-gradient(to left bottom, #784c7c, #6e73b2, #429ddb, #00c5ee, #12ebeb);
+}
+.about_us{
+	text-align:center;
+}
+.about_us h2{
+	text-align:center;
+}
+h2.center-text {
+    text-align: center;
+    font-weight: bold;
+}
+.PGP_Encryption{
+    text-align: center;
+    
+}
+.PGP_Encryption h2 {
+    text-align: center;
+    font-weight: bold;
+}
+.PGP_Encryption a {
+    text-decoration:none;
+	list-style:none;
+	color:red;
+	text-align:center;
+	padding:10px;
+	background:blue;
+}
+.PGP_Encryption a {
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+    text-align: center;
+	font-weight:bold;
+    padding: 10px 60px;
+   background-image: linear-gradient(to right, #aa9566, #a09864, #959a64, #889d66, #7a9f6b, #639e76, #4b9c83, #339990, #2190a0, #3885a6, #5778a2, #706b94);
+    border-radius: 20px;
+}
+.contact{
+	background-image: linear-gradient(to right top, #274169, #2d5474, #3d677d, #547985, #6e8a8e);
+}
+
+.footer_text{
+	color:#fff;
+	padding:20px;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -24,10 +24,10 @@ body{
 	border-radius:40px;
 	padding:2px;
 	font-size:15px;
-	background-image: linear-gradient(to right, #4078c2, #009ee7, #00c0d9, #00da95, #4beb12);
+	background-image: linear-gradient(to right, #4313C9, #885AA4);
 }
 .nav-item{
-	width:80px;
+	width:85px;
 }
 .header_img_text{
 	background:url(../images/full_img.jpg) no-repeat;
@@ -40,7 +40,7 @@ body{
 	background-image: linear-gradient(to left top, #c87ca9, #bc7ab3, #ac7abe, #967cc7, #7b7ece, #6084d1, #3f89d1, #008dce, #0094c4, #0099b7, #0c9da8, #3e9f99);
 }
 .headline-text{
-	padding:200px;
+	padding:150px;
 	color:#FFF;
 	font-weight:bold;
 	
@@ -64,7 +64,7 @@ h4.py-2 {
 	text-align:center;
 }
 .lineheight{
-	width:250px;
+	width:200px;
 }
 .media i{
 	font-size:100px;

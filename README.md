@@ -2,4 +2,4 @@
 
 Static website of Liberty Alpha
 
-(c) 2022
+(c) 2021-2023

@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /*.pdf$ /*.txt$
+Disallow: /*.pdf$ /*.txt$ /*.m3u$ /*.md$
